@@ -1,0 +1,1 @@
+    Refactoring basic test of simple program with mocking in Go.
